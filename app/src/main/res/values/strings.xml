@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Urban Canvas</string>
+
+    <string name="activity_detail_title">Detail</string>
+
+    <string name="number_of_images">%1$d of %2$d</string>
+
+</resources>
