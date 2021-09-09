@@ -1,8 +1,8 @@
-# Urban Canvas
+# City Sketch
 
 **NOTE: This app is just used as a DEVELOPMENT TESTING PROJECT to experiment with new app concepts & API's.**
 
-Urban canvas consumes the [Flickr API](https://www.flickr.com/services/api/) and displays the results in a list & a map using the following.
+City Sketch consumes the [Flickr API](https://www.flickr.com/services/api/) and displays the results in a list & a map using the following.
 
 * Retrofit
 * RxJava 2
@@ -10,7 +10,7 @@ Urban canvas consumes the [Flickr API](https://www.flickr.com/services/api/) and
 * Google Maps (plus Clustering Utils)
 
 <p>
-<img src="https://github.com/andyb129/UrbanCanvas/blob/master/screenshots%2Furban_canvas_anim.gif" height="600" alt="UrbanCanvas"/>
+<img src="https://github.com/andyb129/CitySketch/blob/master/screenshots%2Furban_canvas_anim.gif" height="600" alt="UrbanCanvas"/>
 </p>
 
 ### TODO
